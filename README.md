@@ -1,9 +1,10 @@
 # TABLEAU-DASHBOARD
 🍕 Pizza Delivery & Operational Performance Dashboard
+
 <div align="center">
 
 📊 Analyzing Order Behavior, Delivery Efficiency & Pizza Complexity
-<img width="1787" height="911" alt="Screenshot 2026-05-14 213726" src="https://github.com/user-attachments/assets/8f67dfc4-c685-461d-aa0b-47889241c132" />
+
 
 </div>
 📌 Project Overview
@@ -11,14 +12,19 @@
 This project presents an interactive Pizza Delivery & Operational Performance Dashboard designed to analyze:
 
 🍕 Pizza ordering trends
+
 🚚 Delivery efficiency
+
 ⏱️ Preparation complexity
+
 🛵 Traffic impact on delivery
+
 🏪 Restaurant performance
 
 The dashboard helps businesses identify operational bottlenecks, customer preferences, and delivery performance patterns.
 
 ✨ Key Insights
+
 📦 Orders Overview
 Metric	Value
 Total Orders	1,004
@@ -67,20 +73,21 @@ Data Visualization	Insights & Reporting
 🎯 Business Objectives
 
 ✅ Improve delivery efficiency
+
 ✅ Reduce operational delays
+
 ✅ Understand customer preferences
+
 ✅ Optimize preparation workflow
+
 ✅ Analyze restaurant performance
 
 📷 Dashboard Preview
 Main Dashboard
-(Add your screenshot here)
-🚀 How to Use
-1. Download the Power BI file
-2. Open using Microsoft Power BI Desktop
-3. Refresh dataset if needed
-4. Explore filters and visualizations
-📌 Project Highlights
+
+<img width="1787" height="911" alt="Screenshot 2026-05-14 213726" src="https://github.com/user-attachments/assets/8f67dfc4-c685-461d-aa0b-47889241c132" />
+
+
 
 ✨ Interactive visual analytics
 ✨ Operational performance monitoring
